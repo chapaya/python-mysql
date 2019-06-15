@@ -1,0 +1,25 @@
+C:\Users\eran\PycharmProjects\python-mysql\venv\Scripts\python.exe C:/Users/eran/PycharmProjects/python-mysql/pan2.py
+<mysql.connector.connection.MySQLConnection object at 0x010BC410>
+Print select...
+(4, 'Samsonic', 'pleasant', 'J')
+(6, 'Panasung', 'oaktown', 'J')
+(7, 'Samony', 'jackson', 'B')
+(9, 'Orange', 'jackson', 'B')
+(66, 'Eran', 'Magdiel', 'BKK6')
+(77, 'Eran', 'Magdiel', 'xxx')
+(88, 'Eran', 'Magdiel', 'BKK10')
+(99, 'Eran', 'Magdiel', 'BKK10')
+[]
+The ids list : []
+There are NO ids in list
+Print select...
+(4, 'Samsonic', 'pleasant', 'J')
+(6, 'Panasung', 'oaktown', 'J')
+(7, 'Samony', 'jackson', 'B')
+(9, 'Orange', 'jackson', 'B')
+(66, 'Eran', 'Magdiel', 'BKK6')
+(77, 'Eran', 'Magdiel', 'xxx')
+(88, 'Eran', 'Magdiel', 'BKK10')
+(99, 'Eran', 'Magdiel', 'BKK10')
+
+Process finished with exit code 0
